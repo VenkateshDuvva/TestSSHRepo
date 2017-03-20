@@ -1,0 +1,1 @@
+Index file created via git bash cmd.
